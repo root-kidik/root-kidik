@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,bash,py,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,bash,py,js,sql" />
 </a>
 
 <h3 align="left">Tools:</h3>
