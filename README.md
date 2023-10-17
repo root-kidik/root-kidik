@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 
-- [x] 🔭 I’m currently working on [todo-list](https://github.com/root-kidik/todo-list)
-- [x] 🌱 I’m currently learning **c++, grpc, userver, microservices architecture, postgresql**
-- [x] 👯 I’m looking to collaborate on [userver](https://github.com/userver-framework/userver)
+🔭 I’m currently working on [todo-list](https://github.com/root-kidik/todo-list)  
+🌱 I’m currently learning **c++, grpc, userver, microservices architecture, postgresql**  
+👯 I’m looking to collaborate on [userver](https://github.com/userver-framework/userver)  
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,bash,py,js,cmake,git,github,docker,postgres,redis)](https://skillicons.dev)
 
