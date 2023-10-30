@@ -2,9 +2,9 @@
 
 <h2 align="center">🚀 My Projects</h2> 
 <p align="center"> 
-  <a href="https://github.com/root-kidik/electronic.git">electronic</a>
-  <a href="https://github.com/root-kidik/electronic_protobufs">electronic-protobufs</a>
-  <a href="https://github.com/root-kidik/electronic_auth_service">electronic-auth-service</a>
+  <a href="https://github.com/root-kidik/electronic.git"  style="color: black; text-decoration: underline;text-decoration-style: dotted;">electronic</a><br/>
+  <a href="https://github.com/root-kidik/electronic_protobufs">electronic-protobufs</a><br/>
+  <a href="https://github.com/root-kidik/electronic_auth_service">electronic-auth-service</a><br/>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
